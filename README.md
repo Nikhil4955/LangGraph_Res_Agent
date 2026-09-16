@@ -53,11 +53,10 @@ TERMINATE: I can only help with restaurant orders.
 
 ## Setup
 
-Open PowerShell and clone the project directly from GitHub into a local folder.
-Replace the repository URL with the URL of your GitHub repository:
+Clone the project directly from GitHub into a local folder.
 
 ```powershell
-git clone https://github.com/<your-username>/<your-repository>.git folder_name
+git clone https://github.com/Nikhil4955/LangGraph_Res_Agent.git 
 ```
 
 ### Install `uv`
